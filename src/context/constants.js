@@ -1,0 +1,9 @@
+export const CLEAR_SHAPE_HISTORY = "CLEAR_SHAPE_HISTORY";
+export const SET_FILL = "SET_FILL";
+export const SET_STROKE = "SET_STROKE";
+export const ON_DRAWN = "ON_DRAWN";
+export const OFF_DRAWN = "OFF_DRAWN";
+export const SET_SHAPE = "SET_SHAPE";
+export const SET_DETAILS = "SET_DETAILS";
+export const RESET_DETAILS = "RESET_DETAILS";
+export const UPDATE_HISTORY = "UPDATE_HISTORY";
